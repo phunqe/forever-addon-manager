@@ -1,5 +1,6 @@
 # forever-addon-manager
-A World of Warcraft add-on manager written entirely as a PowerShell script.
+A World of Warcraft add-on manager written entirely as a PowerShell script. Use help to see all commands available.
+Stores a state file in JSON format at C:\Users\<user>\AppData\Roaming\ForeverAddonManager to keep track of things.
 
 <img width="1483" height="1015" alt="image" src="https://github.com/user-attachments/assets/1d4b21ff-dfd9-485e-9598-4f784f0a3787" />
 
